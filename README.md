@@ -32,17 +32,6 @@ Analyzes constructor/team performance:
 - Driver finishing results
 - Team speed distribution
 
-### 📈 Lap Analysis
-Provides detailed lap-by-lap analysis:
-- Fastest lap
-- Average lap time
-- Total laps
-- Best speed
-- Lap time trend
-- Lap time by stint
-- Lap pace by tyre compound
-- Lap-level details
-
 ## 🛠 Tools & Technologies
 
 - Power BI
